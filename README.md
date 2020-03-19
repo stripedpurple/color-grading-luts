@@ -8,6 +8,8 @@ Or if you like the LUTs and what to support me feel free to [buy me a coffee](ht
 
 *Most if not all of these were created using Photoshop's Color Lookup Table Export Plugin and have not bend test with any software other than Photoshop.*
 
+### Installation
+
 Simply place the files in Photoshop's *Presents/3DLUTs/* directory
 
 On Mac OS ***/Applications/Adobe Photoshop 2020/Presets/3DLUTs***
